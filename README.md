@@ -6,19 +6,19 @@ Tarefas:
 
 Infraestrutura:
 
-- Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) X
+- Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) - OK
 
-- Setar as Permissoes do Gitpod ao Repositorio no Github X
+- Setar as Permissoes do Gitpod ao Repositorio no Github - OK
 
-- Subir o Airbyte via docker 
+- Subir o Airbyte via docker - OK
 
-- Subir o Airflow via docker 
+- Subir o Airflow via docker - OK
 
-- Subir o Metabase via docker 
+- Subir o Metabase via docker - OK
 
-- Criar o script de execução 
+- Criar o script de execução - 
 
-- Testar a Execução 
+    - Testar a Execução 
 
 - Snowflake Data Warehouse:
     
